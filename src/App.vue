@@ -5,7 +5,11 @@
       <i-col span="6">
           <Menu mode="horizontal">
             <div class="layout-nav">
+<<<<<<< HEAD
               <span><img src="./assets/chef-hat.png"></span>
+=======
+              <span><img src="./assets/images/chef-hat.png"></span>
+>>>>>>> 876f51e7586276ef05d82152170a0449f870d2a4
             </div>
           </Menu>
           <span><div class="text-shadow">HELLO &nbsp; WORLD  &nbsp;&nbsp; hello world</div></span>

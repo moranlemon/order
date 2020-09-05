@@ -14,11 +14,22 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+<<<<<<< HEAD
     "iview": "^3.5.4",
     "less": "^3.12.2",
     "less-loader": "^4.1.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
+=======
+    "axios": "^0.19.2",
+    "iview": "^3.5.4",
+    "js-cookie": "^2.2.1",
+    "less": "^3.12.2",
+    "less-loader": "^5.0.0",
+    "vue": "^2.5.2",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.5.1"
+>>>>>>> 876f51e7586276ef05d82152170a0449f870d2a4
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
